@@ -8,7 +8,7 @@ https://www.npmjs.com/package/libnmap
 - Install node.js and Visual Studio code (optional), Nmap utility from these links:
     https://nodejs.org/en/download/
     https://code.visualstudio.com/download
-    https://nmap.org/download.html  (please install the windows setup)
+    https://nmap.org/download.html  (please install the windows setup .exe)
     
  - Open the project folder using VS code and run "npm install" in the terminal.
  
